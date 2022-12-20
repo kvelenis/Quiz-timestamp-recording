@@ -4,4 +4,4 @@ A research app targeting at the user reaction when hearing a musical piece. The 
 
 To make it work fill in all the prerequisites values on the dub.inc.php file concerning the database.
 
-To give you acceess to the database please send me an email at kvelenis@gmail.com
+To give you access to the database please send me an email at kvelenis@gmail.com
